@@ -69,8 +69,8 @@ This section contains fundamental MOS transistor structures used in CMOS technol
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
 | NMOS | [Download](./01_MOS_Transistors/nmos.msk?raw=1) | [Watch Video](https://youtu.be/A00BA_woUQU?si=HKxdLutJIigRY8Wv) |
-| PMOS | [Download](./01_MOS_Transistors/pmos.msk?raw=1) | [Watch Video](ADD_PMOS_VIDEO_LINK) |
-| CMOS | [Download](./01_MOS_Transistors/cmos.msk?raw=1) | [Watch Video](ADD_CMOS_VIDEO_LINK) |
+| PMOS | [Download](./01_MOS_Transistors/pmos.msk?raw=1) | [Watch Video](https://youtu.be/C3b7XWNvq9s?si=olvZnt_elQLO_PKy) |
+| CMOS | [Download](./01_MOS_Transistors/cmos.msk?raw=1) | [Watch Video](https://youtu.be/z_tFoTU5kDU?si=MC5k1-vSzDsWQ0nH) |
 
 ## 2. Basic Logic Gates
 
@@ -78,12 +78,13 @@ This section covers fundamental digital logic operations and their transistor-le
 
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
-| AND Gate | [Download](./02_Logic_Gates/AND.msk?raw=1) | [Watch Video](ADD_AND_VIDEO_LINK) |
-| OR Gate | [Download](./02_Logic_Gates/OR.msk?raw=1) | [Watch Video](ADD_OR_VIDEO_LINK) |
-| NOT Gate | [Download](./02_Logic_Gates/NOT.msk?raw=1) | [Watch Video](ADD_NOT_VIDEO_LINK) |
-| NAND Gate | [Download](./02_Logic_Gates/NAND.msk?raw=1) | [Watch Video](ADD_NAND_VIDEO_LINK) |
-| NOR Gate | [Download](./02_Logic_Gates/NOR.msk?raw=1) | [Watch Video](ADD_NOR_VIDEO_LINK) |
-| XOR Gate | [Download](./02_Logic_Gates/XOR.msk?raw=1) | [Watch Video](ADD_XOR_VIDEO_LINK) |
+| AND Gate | [Download](./02_Logic_Gates/AND.msk?raw=1) | [Watch Video](https://youtu.be/vVPrUgZKyX4?si=HMs1dTQJBHVEk2Pw) |
+| OR Gate | [Download](./02_Logic_Gates/OR.msk?raw=1) | [Watch Video](https://youtu.be/nLlbD6yHMhQ?si=TilK9HPX75oU5MWj) |
+| NOT Gate | Coming Soon | Coming Soon |
+| NAND Gate | [Download](./02_Logic_Gates/NAND.msk?raw=1) | [Watch Video](https://youtu.be/C2OTskaVvRk?si=jpwgL6fcO4mp_5mJ) |
+| NOR Gate | [Download](./02_Logic_Gates/NOR.msk?raw=1) | [Watch Video](https://youtu.be/BzyyLQoui3U?si=fFb56WTgDmppEKSP) |
+| XOR Gate | [Download](./02_Logic_Gates/XOR.msk?raw=1) | [Watch Video](https://youtu.be/bmPR_JotDdU?si=jUpoDaOF505h_3Ms) |
+| X-NOR Gate | [Download](./02_Logic_Gates/X-NOR.msk?raw=1) | [Watch Video](https://youtu.be/kQLradO--KE?si=inyg0CuY_GcYWMKs) |
 
 ## 3. Combinational Circuits
 
@@ -91,12 +92,12 @@ These circuits produce outputs based on their present input values.
 
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
-| Half Adder | [Download](./03_Combinational_Circuits/Half_Adder.msk?raw=1) | [Watch Video](ADD_HALF_ADDER_VIDEO_LINK) |
-| Full Adder | [Download](./03_Combinational_Circuits/Full_Adder.msk?raw=1) | [Watch Video](ADD_FULL_ADDER_VIDEO_LINK) |
-| 2×1 Multiplexer | [Download](./03_Combinational_Circuits/Multiplexer_2x1.msk?raw=1) | [Watch Video](ADD_2X1_MUX_VIDEO_LINK) |
-| 4×1 Multiplexer | [Download](./03_Combinational_Circuits/Multiplexer_4x1.msk?raw=1) | [Watch Video](ADD_4X1_MUX_VIDEO_LINK) |
-| 8×1 Multiplexer | [Download](./03_Combinational_Circuits/Multiplexer_8x1.msk?raw=1) | [Watch Video](ADD_8X1_MUX_VIDEO_LINK) |
-| 1-bit Comparator | [Download](./03_Combinational_Circuits/One_bit_comparator.msk?raw=1) | [Watch Video](ADD_COMPARATOR_VIDEO_LINK) |
+| Half Adder | Coming Soon | Coming Soon |
+| Full Adder | Coming Soon | Coming Soon |
+| 2×1 Multiplexer | [Download](./03_Combinational_Circuits/Multiplexer_2x1.msk?raw=1) | [Watch Video](https://youtu.be/-tuoROjq1Sg?si=m2kwzYDi_2PJBnuS) |
+| 4×1 Multiplexer | [Download](./03_Combinational_Circuits/Multiplexer_4x1.msk?raw=1) | [Watch Video](https://youtu.be/CMX086tM35c?si=Bj5YosCBrZ3gzgwk) |
+| 8×1 Multiplexer | Coming Soon | Coming Soon |
+| 1-bit Comparator | Coming Soon | Coming Soon |
 
 ## 4. Sequential Circuits
 
@@ -104,10 +105,10 @@ These circuits use memory elements to store information. Their outputs depend on
 
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
-| SR Flip-Flop | [Download](./04_Sequential_Circuits/SR_Flip_Flop.msk?raw=1) | [Watch Video](ADD_SR_FLIP_FLOP_VIDEO_LINK) |
-| D Flip-Flop | [Download](./04_Sequential_Circuits/D_Flip_Flop.msk?raw=1) | [Watch Video](ADD_D_FLIP_FLOP_VIDEO_LINK) |
-| JK Flip-Flop | [Download](./04_Sequential_Circuits/JK_Flip_Flop.msk?raw=1) | [Watch Video](ADD_JK_FLIP_FLOP_VIDEO_LINK) |
-| T Flip-Flop | [Download](./04_Sequential_Circuits/T_Flip_Flop.msk?raw=1) | [Watch Video](ADD_T_FLIP_FLOP_VIDEO_LINK) |
+| SR Flip-Flop | [Download](./04_Sequential_Circuits/SR_Flip_Flop.msk?raw=1) | [Watch Video](https://youtu.be/WCG47Mhxu-U?si=hVquVdEFp--y7r8J) |
+| D Flip-Flop | [Download](./04_Sequential_Circuits/D_Flip_Flop.msk?raw=1) | [Watch Video](https://youtu.be/sjtRExFfwjc?si=3BXuDr9iqnZt0RSh) |
+| JK Flip-Flop | [Download](./04_Sequential_Circuits/JK_Flip_Flop.msk?raw=1) | [Watch Video](https://youtu.be/tLXrhJjU0Y4?si=VlYGj5VqPmXQgF-d) |
+| T Flip-Flop | [Download](./04_Sequential_Circuits/T_Flip_Flop.msk?raw=1) | [Watch Video](https://youtu.be/Pw-BxmlvJ7k?si=_53WspWnPBJt-_lN) |
 
 ## 5. Advanced Digital Circuits
 
@@ -115,9 +116,9 @@ This section contains more complex digital systems and architectures.
 
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
-| Barrel Shifter | [Download](./05_Advanced_Circuits/Barrel_Shifter.msk?raw=1) | [Watch Video](ADD_BARREL_SHIFTER_VIDEO_LINK) |
-| Crossbar Switch | [Download](./05_Advanced_Circuits/Crossbar_Switch.msk?raw=1) | [Watch Video](ADD_CROSSBAR_SWITCH_VIDEO_LINK) |
-| Arithmetic Logic Unit (ALU) | [Download](./05_Advanced_Circuits/ALU.msk?raw=1) | [Watch Video](ADD_ALU_VIDEO_LINK) |
+| Barrel Shifter | [Download](./05_Advanced_Circuits/Barrel_Shifter.msk?raw=1) | Coming Soon |
+| Crossbar Switch | [Download](./05_Advanced_Circuits/Crossbar_Switch.msk?raw=1) | Coming Soon |
+| Arithmetic Logic Unit (ALU) | [Download](./05_Advanced_Circuits/ALU.msk?raw=1) | Coming Soon |
 
 ## Software Requirements
 
