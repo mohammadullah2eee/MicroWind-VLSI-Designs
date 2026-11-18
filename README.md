@@ -68,7 +68,7 @@ This section contains fundamental MOS transistor structures used in CMOS technol
 
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
-| NMOS | [Download](./01_MOS_Transistors/nmos.msk?raw=1) | [Watch Video]([ADD_NMOS_VIDEO_LINK](https://youtu.be/A00BA_woUQU?si=UXPObVO7bQAXNhWO)) |
+| NMOS | [Download](./01_MOS_Transistors/nmos.msk?raw=1) | [Watch Video] https://youtu.be/A00BA_woUQU?si=bkMNksaKNBMn1x3s |
 | PMOS | [Download](./01_MOS_Transistors/pmos.msk?raw=1) | [Watch Video](ADD_PMOS_VIDEO_LINK) |
 | CMOS | [Download](./01_MOS_Transistors/cmos.msk?raw=1) | [Watch Video](ADD_CMOS_VIDEO_LINK) |
 
