@@ -116,9 +116,9 @@ This section contains more complex digital systems and architectures.
 
 | Design | Download `.msk` File | YouTube Video |
 |---|---|---|
-| Barrel Shifter | [Download](./05_Advanced_Circuits/Barrel_Shifter.msk?raw=1) | Coming Soon |
-| Crossbar Switch | [Download](./05_Advanced_Circuits/Crossbar_Switch.msk?raw=1) | Coming Soon |
-| Arithmetic Logic Unit (ALU) | [Download](./05_Advanced_Circuits/ALU.msk?raw=1) | Coming Soon |
+| Barrel Shifter | Coming Soon | Coming Soon |
+| Crossbar Switch | Coming Soon | Coming Soon |
+| Arithmetic Logic Unit (ALU) | Coming Soon | Coming Soon |
 
 ## Software Requirements
 
